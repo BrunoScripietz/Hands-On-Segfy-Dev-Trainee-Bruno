@@ -131,3 +131,25 @@ for x in amigos01 do
         puts "Não é meu amigo"
     end
 end
+#Obs. A ideia do filtro seria utilizar o "size" como dado de captura... tentei implementar com ".lenght", mas sem muito sucesso...
+#Acredito estar bem encaminhado, ao menos nas ideis, porém não consegui executar o devido ajuste para funcionar como devido.
+
+puts "\n\n\n"
+
+puts "Questão 06. Construa uma torre em forma de pirâmide dado um número inteiro positivo de andares."
+puts "Um bloco de torre é representado com o caractere *"
+
+puts "Torre com 3 andares"
+puts "\n"
+puts "          *"
+puts "        * * *"
+puts "      * * * * *"
+puts "\n\n"
+puts "Torre com 6 andares"
+puts "\n"
+puts "          *"
+puts "        * * *"
+puts "      * * * * *"
+puts "    * * * * * * *"
+puts "  * * * * * * * * *"
+puts "* * * * * * * * * * *"
